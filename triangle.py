@@ -7,4 +7,4 @@ def area(a, b, c):  # Площадь указана некорректно
 
 
 def perimeter(a, b, c):
-    return a + b + c
+    return a+ b+ c
